@@ -1,0 +1,20 @@
+C:\Users\Stefano\source\repos\TierQuartett\TierQuartett\bin\Debug\TierQuartett.exe.config
+C:\Users\Stefano\source\repos\TierQuartett\TierQuartett\bin\Debug\TierQuartett.exe
+C:\Users\Stefano\source\repos\TierQuartett\TierQuartett\bin\Debug\TierQuartett.pdb
+C:\Users\Stefano\source\repos\TierQuartett\TierQuartett\obj\Debug\TierQuartett.csprojAssemblyReference.cache
+C:\Users\Stefano\source\repos\TierQuartett\TierQuartett\obj\Debug\TierQuartett.Form1.resources
+C:\Users\Stefano\source\repos\TierQuartett\TierQuartett\obj\Debug\TierQuartett.Properties.Resources.resources
+C:\Users\Stefano\source\repos\TierQuartett\TierQuartett\obj\Debug\TierQuartett.csproj.GenerateResource.cache
+C:\Users\Stefano\source\repos\TierQuartett\TierQuartett\obj\Debug\TierQuartett.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\source\repos\TierQuartett\TierQuartett\obj\Debug\TierQuartett.exe
+C:\Users\Stefano\source\repos\TierQuartett\TierQuartett\obj\Debug\TierQuartett.pdb
+C:\Users\Chris\Desktop\ANW Projekt\TierQuartett\TierQuartett\bin\Debug\TierQuartett.exe.config
+C:\Users\Chris\Desktop\ANW Projekt\TierQuartett\TierQuartett\bin\Debug\TierQuartett.exe
+C:\Users\Chris\Desktop\ANW Projekt\TierQuartett\TierQuartett\bin\Debug\TierQuartett.pdb
+C:\Users\Chris\Desktop\ANW Projekt\TierQuartett\TierQuartett\obj\Debug\TierQuartett.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\ANW Projekt\TierQuartett\TierQuartett\obj\Debug\TierQuartett.Form1.resources
+C:\Users\Chris\Desktop\ANW Projekt\TierQuartett\TierQuartett\obj\Debug\TierQuartett.Properties.Resources.resources
+C:\Users\Chris\Desktop\ANW Projekt\TierQuartett\TierQuartett\obj\Debug\TierQuartett.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\ANW Projekt\TierQuartett\TierQuartett\obj\Debug\TierQuartett.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\ANW Projekt\TierQuartett\TierQuartett\obj\Debug\TierQuartett.exe
+C:\Users\Chris\Desktop\ANW Projekt\TierQuartett\TierQuartett\obj\Debug\TierQuartett.pdb

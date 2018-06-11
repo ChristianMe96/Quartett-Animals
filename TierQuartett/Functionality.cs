@@ -19,7 +19,8 @@ namespace TierQuartett
             Animal leopard = new Animal("Leopard", 58, 31, 17, 1.6);
             Animal elephant = new Animal("Elefant", 10, 6000, 70, 3.3);
             Animal brownbear = new Animal("Braunbär", 40, 600, 25, 2.8);
-            Animal gorilla = new Animal("gorilla", 40, 160, 40, 1.7);
+            Animal gorilla = new Animal("Gorilla", 40, 160, 40, 1.7);
+            Animal blauwal = new Animal("Blauwal",30,200000,80,33);
 
             List<Animal> animalList = new List<Animal>();
 
@@ -27,6 +28,8 @@ namespace TierQuartett
             animalList.Add(elephant);
             animalList.Add(brownbear);
             animalList.Add(gorilla);
+            animalList.Add(blauwal); 
+            
 
 
 

@@ -18,6 +18,11 @@ namespace TierQuartett
         int maxCards = 2;
         int currentPlayer;
 
+        string player1Value;
+        string player2Value;
+
+        Dictionary<string, string> animalProperties = new Dictionary<string, string>();
+
 
         public Form1()
         {
@@ -78,6 +83,12 @@ namespace TierQuartett
                 tbxAgePl1.Text = Convert.ToString(player1Cards[random].Age);
                 tbxBodySizePl1.Text = Convert.ToString(player1Cards[random].BodySize);
 
+                animalProperties["Speed"] = tbxSpeedPl1.Text;
+                animalProperties["Weight"] = tbxWeightPl1.Text;
+                animalProperties["Age"] = tbxAgePl1.Text;
+                animalProperties["BodySize"] = tbxBodySizePl1.Text;
+
+
                 if(btnStart.Visible != false)
                 {
                     btnReadyPl1.Visible = true;
@@ -94,6 +105,11 @@ namespace TierQuartett
                 tbxWeightPl2.Text = Convert.ToString(player2Cards[random].Weight);
                 tbxAgePl2.Text = Convert.ToString(player2Cards[random].Age);
                 tbxBodySizePl2.Text = Convert.ToString(player2Cards[random].BodySize);
+
+                animalProperties["Speed"] = tbxSpeedPl2.Text;
+                animalProperties["Weight"] = tbxWeightPl2.Text;
+                animalProperties["Age"] = tbxAgePl2.Text;
+                animalProperties["BodySize"] = tbxBodySizePl2.Text;
 
                 if (btnStart.Visible != false)
                 {
@@ -143,15 +159,17 @@ namespace TierQuartett
         {
             var checkedButton = player1Pnl.Controls.OfType<RadioButton>()
                                       .FirstOrDefault(r => r.Checked);
+
             
-            
-            
+            player1Value = animalProperties[checkedButton.Text];
+
 
             if (checkedButton != null && !string.IsNullOrWhiteSpace(tbxSpeedPl1.Text))
             {
                 currentPlayer = 2;
                 tbxFight.Visible = true;
                 player2Pnl.Visible = true;
+                btnReadyPl2.Visible = true;
                 player1Pnl.Visible = false;
                 fillAnimalFields(currentPlayer);
                 MessageBox.Show(player2 + " ist an der Reihe");
@@ -168,13 +186,17 @@ namespace TierQuartett
             var checkedButton = player2Pnl.Controls.OfType<RadioButton>()
                                  .FirstOrDefault(r => r.Checked);
 
+            player2Value = animalProperties[checkedButton.Text];
+
             if (checkedButton != null && !string.IsNullOrWhiteSpace(tbxSpeedPl2.Text))
             {
                 currentPlayer = 1;
                 tbxFight.Visible = true;
                 player1Pnl.Visible = true;
+                btnReadyPl1.Visible = true;
                 player2Pnl.Visible = false;
                 fillAnimalFields(currentPlayer);
+           
                 MessageBox.Show(player1 + " ist an der Reihe");
                
             }
@@ -186,11 +208,14 @@ namespace TierQuartett
            
 
         }
-
+        //player1Value / player2Value sind die ausgewählten werte von den einzelnen Spielern
         private void tbxFight_Click(object sender, EventArgs e)
         {
-            if(!string.IsNullOrWhiteSpace(tbxSpeedPl1.Text) && !string.IsNullOrWhiteSpace(tbxSpeedPl2.Text))
+            if(!string.IsNullOrWhiteSpace(player1Value) && !string.IsNullOrWhiteSpace(player2Value))
             {
+                //nur ein Test
+                MessageBox.Show(player1Value + "VS" + player2Value);
+                functionality.fightCards(Convert.ToDouble(player1Value), Convert.ToDouble(player2Value));
                 tbxFight.Visible = false;
 
                 // TODO-- Ab hier muss die kampf logik hin - functionality.cardsFight

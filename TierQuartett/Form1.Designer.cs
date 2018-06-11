@@ -95,10 +95,10 @@
             this.rdbBodySizePl1.AutoSize = true;
             this.rdbBodySizePl1.Location = new System.Drawing.Point(14, 187);
             this.rdbBodySizePl1.Name = "rdbBodySizePl1";
-            this.rdbBodySizePl1.Size = new System.Drawing.Size(45, 17);
+            this.rdbBodySizePl1.Size = new System.Drawing.Size(69, 17);
             this.rdbBodySizePl1.TabIndex = 20;
             this.rdbBodySizePl1.TabStop = true;
-            this.rdbBodySizePl1.Text = "Size";
+            this.rdbBodySizePl1.Text = "BodySize";
             this.rdbBodySizePl1.UseVisualStyleBackColor = true;
             // 
             // rdbAgePl1
@@ -209,10 +209,10 @@
             this.rdbBodySizePl2.AutoSize = true;
             this.rdbBodySizePl2.Location = new System.Drawing.Point(15, 187);
             this.rdbBodySizePl2.Name = "rdbBodySizePl2";
-            this.rdbBodySizePl2.Size = new System.Drawing.Size(45, 17);
+            this.rdbBodySizePl2.Size = new System.Drawing.Size(69, 17);
             this.rdbBodySizePl2.TabIndex = 13;
             this.rdbBodySizePl2.TabStop = true;
-            this.rdbBodySizePl2.Text = "Size";
+            this.rdbBodySizePl2.Text = "BodySize";
             this.rdbBodySizePl2.UseVisualStyleBackColor = true;
             // 
             // rdbAgePl2

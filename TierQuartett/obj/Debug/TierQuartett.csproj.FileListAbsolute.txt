@@ -18,3 +18,32 @@ C:\Users\Chris\Desktop\ANW Projekt\TierQuartett\TierQuartett\obj\Debug\TierQuart
 C:\Users\Chris\Desktop\ANW Projekt\TierQuartett\TierQuartett\obj\Debug\TierQuartett.csproj.CoreCompileInputs.cache
 C:\Users\Chris\Desktop\ANW Projekt\TierQuartett\TierQuartett\obj\Debug\TierQuartett.exe
 C:\Users\Chris\Desktop\ANW Projekt\TierQuartett\TierQuartett\obj\Debug\TierQuartett.pdb
+C:\Users\christian.meinhard\Desktop\ANW Project\Quartett-Animals\TierQuartett\bin\Debug\TierQuartett.exe.config
+C:\Users\christian.meinhard\Desktop\ANW Project\Quartett-Animals\TierQuartett\bin\Debug\TierQuartett.exe
+C:\Users\christian.meinhard\Desktop\ANW Project\Quartett-Animals\TierQuartett\bin\Debug\TierQuartett.pdb
+C:\Users\christian.meinhard\Desktop\ANW Project\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.csprojAssemblyReference.cache
+C:\Users\christian.meinhard\Desktop\ANW Project\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.Form1.resources
+C:\Users\christian.meinhard\Desktop\ANW Project\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.Properties.Resources.resources
+C:\Users\christian.meinhard\Desktop\ANW Project\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.csproj.GenerateResource.cache
+C:\Users\christian.meinhard\Desktop\ANW Project\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.csproj.CoreCompileInputs.cache
+C:\Users\christian.meinhard\Desktop\ANW Project\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.exe
+C:\Users\christian.meinhard\Desktop\ANW Project\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.pdb
+C:\Users\Stefano\Desktop\Quartett-Animals\Quartett-Animals\TierQuartett\bin\Debug\TierQuartett.exe.config
+C:\Users\Stefano\Desktop\Quartett-Animals\Quartett-Animals\TierQuartett\bin\Debug\TierQuartett.exe
+C:\Users\Stefano\Desktop\Quartett-Animals\Quartett-Animals\TierQuartett\bin\Debug\TierQuartett.pdb
+C:\Users\Stefano\Desktop\Quartett-Animals\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.csprojAssemblyReference.cache
+C:\Users\Stefano\Desktop\Quartett-Animals\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.Form1.resources
+C:\Users\Stefano\Desktop\Quartett-Animals\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.Properties.Resources.resources
+C:\Users\Stefano\Desktop\Quartett-Animals\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.csproj.GenerateResource.cache
+C:\Users\Stefano\Desktop\Quartett-Animals\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\Desktop\Quartett-Animals\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.exe
+C:\Users\Stefano\Desktop\Quartett-Animals\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.pdb
+C:\Users\fia74di_legami\Downloads\Quartett-Animals\TierQuartett\bin\Debug\TierQuartett.exe.config
+C:\Users\fia74di_legami\Downloads\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.exe
+C:\Users\fia74di_legami\Downloads\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.pdb
+C:\Users\fia74di_legami\Downloads\Quartett-Animals\TierQuartett\bin\Debug\TierQuartett.exe
+C:\Users\fia74di_legami\Downloads\Quartett-Animals\TierQuartett\bin\Debug\TierQuartett.pdb
+C:\Users\fia74di_legami\Downloads\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.csprojResolveAssemblyReference.cache
+C:\Users\fia74di_legami\Downloads\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.Form1.resources
+C:\Users\fia74di_legami\Downloads\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.Properties.Resources.resources
+C:\Users\fia74di_legami\Downloads\Quartett-Animals\TierQuartett\obj\Debug\TierQuartett.csproj.GenerateResource.Cache

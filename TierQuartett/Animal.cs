@@ -55,19 +55,30 @@ namespace TierQuartett
             }
         }
 
+        // image path
+        private string image;
+        public string Image
+        {
+            get
+            {
+                return image;
+            }
+        }
+
         public Animal()
         {
 
         }
 
 
-        public Animal(string name, int speed, int weight, int age, double bodysize)
+        public Animal(string name, int speed, int weight, int age, double bodysize, string image)
         {
             this.name = name;
             this.speed = speed;
             this.weight = weight;
             this.age = age;
             this.bodysize = bodysize;
+            this.image = image;
         }
     }
 }
